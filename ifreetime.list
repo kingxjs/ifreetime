@@ -6,9 +6,3 @@ host,v.gdt.qq.com,REJECT
 host-suffix,shenbabao.com,REJECT
 host-suffix,ocsp.pki.goog,REJECT
 host-suffix,umeng.com,REJECT
-# URL-REGEX,^https:\/\/alogs\.umengcloud\.com\/app_logs$,REJECT
-# host-suffix,pangolin-sdk-toutiao.com,REJECT
-# host-suffix,pinduoduo.com,REJECT
-# URL-REGEX,^https:\/\/alogs\.umeng\.com\/app_logs$,REJECT
-# host-suffix,umeng.com,REJECT
-# host,v3-be-pack.pglstatp-toutiao.com,REJECT

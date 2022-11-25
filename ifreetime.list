@@ -1,0 +1,7 @@
+host-SUFFIX,pglstatp-toutiao.com,REJECT
+host,novelapi.baidu.com,REJECT
+host-suffix,app-measurement.com,REJECT
+host-suffix,shenbabao.com,REJECT
+host-suffix,gdtimg.com,REJECT
+host-suffix,pangolin-sdk-toutiao.com,REJECT
+host-suffix,ocsp.pki.goog,REJECT

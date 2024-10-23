@@ -1,6 +1,69 @@
 $done({
     body: JSON.stringify({
-        "cypher": 3,
-        "message": "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"
-    })
+  "qdata" : "x",
+  "settings" : {
+    "rewards" : [
+      {
+        "rb_type" : "享受无广告",
+        "rb_amount" : 1
+      }
+    ],
+    "nofill_urls" : [
+      "https:\/\/googleads.g.doubleclick.net\/pagead\/interaction\/?ai=C2cFtookYZ_TkO9qV29gPouaLyAT5ydqmBdHvhbqSAQAQCCDkrKltYJ0BqQIAAAAAgIQuQagDAaoEG0_QUTZHd1QRDeRcSxdeRPcJ7Rn9GSp01JSwYZAGAcAGC4AH56CUpY0dkAcBmAcBqAf_nrECqAewvrEC0gguCIDhgIAEEAEYXzICigY6EIDAgICAgECAwICAgKCogAJIvf3BOljoo6zR4qOJA4AKAg&sigh=ibQaB8BHqUE&cid=CAQS2wEA6Wl538RQSrrRHtMYAV7cJyLyq1oVzaQgQdol35lDaE0YTBl6MCn-VTJXoS323Oce6kH7NxjKE8PrfEYfCUmWX0ICRy7T5zqouFcI5HnKwT7IJCZrRbFyrOeyuD6Oy4q6q5AqRLP9kGdEoVFFkUCE_VpbE5_qkufvSfotGw0qhUf0ahYYuxRlFptEm8-SWSZ37Ie_O1guoRFigWBl3OUa2uum3XXlLSuG8pJ8mvyMKVOvcYD3Pe5NNsM_cJ92wP8ny1U2ZQZ0zLa7HdxWN6b3MPRuKK9_ZIZoieY&label=admob_mediation_request_fill_result&mediation_fill_status=@gw_adnetstatus@&ttr=@gw_ttr@"
+    ],
+    "click_urls" : [
+      "@gw_adnetid@"
+    ],
+    "use_displayed_impression" : true,
+    "imp_urls" : [
+
+    ],
+    "extra_response_info" : "{\"mediation_group_name\":\"激励视频\"}"
+  },
+  "ad_type" : "interstitial",
+  "ad_networks" : [
+    {
+      "ad_source_instance_name" : "Vungle（激励广告）",
+      "adapter_class_names" : [
+        "GADMediationAdapterVungle"
+      ],
+      "fill_urls" : [
+        "https:\/\/googleads.g.doubleclick.net\/pagead\/interaction\/?ai=CyYQpookYZ_TkO9qV29gPouaLyAT5ydqmBdHvhbqSAQAQCCDkrKltYJ0BqQIAAAAAgIQuQagDAaoELE_QUTZHd1QRDeRcSxdeRPcJ7Rn9GSp01ISw4K_iOl0xKgGPVaYLCow9GoqgkAYBwAYLgAfnoJSljR2QBwGYBwGoB5bYG6gHqpuxAqgHg62xAqgH_56xAqgH35-xAqgH4L2xAqgH9JmxAqgH5pqxAqgHsb6xArgIAdIILgiA4YCABBABGF8yAooGOhCAwICAgIBAgMCAgICgqIACSL39wTpY6KOs0eKjiQOACgLQFQGAFwGyFxoKGAgAEhRwdWItNzIzMDA0MDkyMTYzNDk2MA&sigh=0UTiQrx9gOk&cid=CAQS2wEA6Wl538RQSrrRHtMYAV7cJyLyq1oVzaQgQdol35lDaE0YTBl6MCn-VTJXoS323Oce6kH7NxjKE8PrfEYfCUmWX0ICRy7T5zqouFcI5HnKwT7IJCZrRbFyrOeyuD6Oy4q6q5AqRLP9kGdEoVFFkUCE_VpbE5_qkufvSfotGw0qhUf0ahYYuxRlFptEm8-SWSZ37Ie_O1guoRFigWBl3OUa2uum3XXlLSuG8pJ8mvyMKVOvcYD3Pe5NNsM_cJ92wP8ny1U2ZQZ0zLa7HdxWN6b3MPRuKK9_ZIZoieY&label=admob_mediation_request_fill_result&mediation_fill_status=@gw_adnetstatus@&ttr=@gw_ttr@&smc_index=0"
+      ],
+      "id" : "https:\/\/googleads.g.doubleclick.net\/aclk?sa=L&ai=CPSxXookYZ_TkO9qV29gPouaLyAT5ydqmBdHvhbqSAQAQCCDkrKltYJ0BqQIAAAAAgIQuQagDAaoEL0_QUTZHd1QRDeRcSxdeRPcJ7Rn9GSp01ISw4K_iOl0xKgGvVW9W2OJ3TZNKCc_FkAYBwAYLgAfnoJSljR2QBwGYBwGoB5bYG6gHqpuxAqgHg62xAqgH_56xAqgH35-xAqgH4L2xAqgH9JmxAqgH5pqxAqgHsb6xArgIAdIILgiA4YCABBABGF8yAooGOhCAwICAgIBAgMCAgICgqIACSL39wTpY6KOs0eKjiQPQFQGAFwE&num=1&cid=CAQS2wEA6Wl538RQSrrRHtMYAV7cJyLyq1oVzaQgQdol35lDaE0YTBl6MCn-VTJXoS323Oce6kH7NxjKE8PrfEYfCUmWX0ICRy7T5zqouFcI5HnKwT7IJCZrRbFyrOeyuD6Oy4q6q5AqRLP9kGdEoVFFkUCE_VpbE5_qkufvSfotGw0qhUf0ahYYuxRlFptEm8-SWSZ37Ie_O1guoRFigWBl3OUa2uum3XXlLSuG8pJ8mvyMKVOvcYD3Pe5NNsM_cJ92wP8ny1U2ZQZ0zLa7HdxWN6b3MPRuKK9_ZIZoieYYAQ&sig=AOD64_31F1zxuChdN4Kg2hGNvaIGpJQ6rw&fbs_aeid=%5Bgw_fbsaeid%5D&adurl=http:\/\/example.com",
+      "response_type" : "rewarded_ad",
+      "boosted_cpm_bid_usd_minus_revenue_sharing" : 2,
+      "ad_network_timeout_millis" : "40000",
+      "video_complete_urls" : [
+        "https:\/\/googleads.g.doubleclick.net\/pagead\/interaction\/?ai=CyYQpookYZ_TkO9qV29gPouaLyAT5ydqmBdHvhbqSAQAQCCDkrKltYJ0BqQIAAAAAgIQuQagDAaoELE_QUTZHd1QRDeRcSxdeRPcJ7Rn9GSp01ISw4K_iOl0xKgGPVaYLCow9GoqgkAYBwAYLgAfnoJSljR2QBwGYBwGoB5bYG6gHqpuxAqgHg62xAqgH_56xAqgH35-xAqgH4L2xAqgH9JmxAqgH5pqxAqgHsb6xArgIAdIILgiA4YCABBABGF8yAooGOhCAwICAgIBAgMCAgICgqIACSL39wTpY6KOs0eKjiQOACgLQFQGAFwGyFxoKGAgAEhRwdWItNzIzMDA0MDkyMTYzNDk2MA&sigh=0UTiQrx9gOk&cid=CAQS2wEA6Wl538RQSrrRHtMYAV7cJyLyq1oVzaQgQdol35lDaE0YTBl6MCn-VTJXoS323Oce6kH7NxjKE8PrfEYfCUmWX0ICRy7T5zqouFcI5HnKwT7IJCZrRbFyrOeyuD6Oy4q6q5AqRLP9kGdEoVFFkUCE_VpbE5_qkufvSfotGw0qhUf0ahYYuxRlFptEm8-SWSZ37Ie_O1guoRFigWBl3OUa2uum3XXlLSuG8pJ8mvyMKVOvcYD3Pe5NNsM_cJ92wP8ny1U2ZQZ0zLa7HdxWN6b3MPRuKK9_ZIZoieY&label=admob_mediation_reward_video_complete"
+      ],
+      "video_start_urls" : [
+        "https:\/\/googleads.g.doubleclick.net\/pagead\/interaction\/?ai=CyYQpookYZ_TkO9qV29gPouaLyAT5ydqmBdHvhbqSAQAQCCDkrKltYJ0BqQIAAAAAgIQuQagDAaoELE_QUTZHd1QRDeRcSxdeRPcJ7Rn9GSp01ISw4K_iOl0xKgGPVaYLCow9GoqgkAYBwAYLgAfnoJSljR2QBwGYBwGoB5bYG6gHqpuxAqgHg62xAqgH_56xAqgH35-xAqgH4L2xAqgH9JmxAqgH5pqxAqgHsb6xArgIAdIILgiA4YCABBABGF8yAooGOhCAwICAgIBAgMCAgICgqIACSL39wTpY6KOs0eKjiQOACgLQFQGAFwGyFxoKGAgAEhRwdWItNzIzMDA0MDkyMTYzNDk2MA&sigh=0UTiQrx9gOk&cid=CAQS2wEA6Wl538RQSrrRHtMYAV7cJyLyq1oVzaQgQdol35lDaE0YTBl6MCn-VTJXoS323Oce6kH7NxjKE8PrfEYfCUmWX0ICRy7T5zqouFcI5HnKwT7IJCZrRbFyrOeyuD6Oy4q6q5AqRLP9kGdEoVFFkUCE_VpbE5_qkufvSfotGw0qhUf0ahYYuxRlFptEm8-SWSZ37Ie_O1guoRFigWBl3OUa2uum3XXlLSuG8pJ8mvyMKVOvcYD3Pe5NNsM_cJ92wP8ny1U2ZQZ0zLa7HdxWN6b3MPRuKK9_ZIZoieY&label=admob_mediation_reward_video_start"
+      ],
+      "ad_source_id" : "1953547073528090325",
+      "presentation_error_urls" : [
+        "https:\/\/googleads.g.doubleclick.net\/pagead\/interaction\/?ai=CyYQpookYZ_TkO9qV29gPouaLyAT5ydqmBdHvhbqSAQAQCCDkrKltYJ0BqQIAAAAAgIQuQagDAaoELE_QUTZHd1QRDeRcSxdeRPcJ7Rn9GSp01ISw4K_iOl0xKgGPVaYLCow9GoqgkAYBwAYLgAfnoJSljR2QBwGYBwGoB5bYG6gHqpuxAqgHg62xAqgH_56xAqgH35-xAqgH4L2xAqgH9JmxAqgH5pqxAqgHsb6xArgIAdIILgiA4YCABBABGF8yAooGOhCAwICAgIBAgMCAgICgqIACSL39wTpY6KOs0eKjiQOACgLQFQGAFwGyFxoKGAgAEhRwdWItNzIzMDA0MDkyMTYzNDk2MA&sigh=0UTiQrx9gOk&cid=CAQS2wEA6Wl538RQSrrRHtMYAV7cJyLyq1oVzaQgQdol35lDaE0YTBl6MCn-VTJXoS323Oce6kH7NxjKE8PrfEYfCUmWX0ICRy7T5zqouFcI5HnKwT7IJCZrRbFyrOeyuD6Oy4q6q5AqRLP9kGdEoVFFkUCE_VpbE5_qkufvSfotGw0qhUf0ahYYuxRlFptEm8-SWSZ37Ie_O1guoRFigWBl3OUa2uum3XXlLSuG8pJ8mvyMKVOvcYD3Pe5NNsM_cJ92wP8ny1U2ZQZ0zLa7HdxWN6b3MPRuKK9_ZIZoieY&label=app_showads_error_type&mpe=@gw_mpe@"
+      ],
+      "video_reward_urls" : [
+        "https:\/\/googleads.g.doubleclick.net\/pagead\/interaction\/?ai=CyYQpookYZ_TkO9qV29gPouaLyAT5ydqmBdHvhbqSAQAQCCDkrKltYJ0BqQIAAAAAgIQuQagDAaoELE_QUTZHd1QRDeRcSxdeRPcJ7Rn9GSp01ISw4K_iOl0xKgGPVaYLCow9GoqgkAYBwAYLgAfnoJSljR2QBwGYBwGoB5bYG6gHqpuxAqgHg62xAqgH_56xAqgH35-xAqgH4L2xAqgH9JmxAqgH5pqxAqgHsb6xArgIAdIILgiA4YCABBABGF8yAooGOhCAwICAgIBAgMCAgICgqIACSL39wTpY6KOs0eKjiQOACgLQFQGAFwGyFxoKGAgAEhRwdWItNzIzMDA0MDkyMTYzNDk2MA&sigh=0UTiQrx9gOk&cid=CAQS2wEA6Wl538RQSrrRHtMYAV7cJyLyq1oVzaQgQdol35lDaE0YTBl6MCn-VTJXoS323Oce6kH7NxjKE8PrfEYfCUmWX0ICRy7T5zqouFcI5HnKwT7IJCZrRbFyrOeyuD6Oy4q6q5AqRLP9kGdEoVFFkUCE_VpbE5_qkufvSfotGw0qhUf0ahYYuxRlFptEm8-SWSZ37Ie_O1guoRFigWBl3OUa2uum3XXlLSuG8pJ8mvyMKVOvcYD3Pe5NNsM_cJ92wP8ny1U2ZQZ0zLa7HdxWN6b3MPRuKK9_ZIZoieY&label=admob_reward_granted"
+      ],
+      "rule_line_external_id" : "3079109109781195",
+      "data" : {
+        "gwhirl_share_location" : "1",
+        "placementID" : "DEFAULT-5177150",
+        "application_id" : "5c015e9d1d52cb0017debbbb"
+      },
+      "allocation_id" : "3079109109781195",
+      "adapters" : [
+        "GADMAdapterVungleRewardBasedVideoAd"
+      ],
+      "ad_source_instance_id" : "3079109109781195",
+      "ad_source_name" : "Liftoff Monetize",
+      "imp_urls" : [
+        "https:\/\/pagead2.googleadservices.com\/pagead\/adview?ai=CyYQpookYZ_TkO9qV29gPouaLyAT5ydqmBdHvhbqSAQAQCCDkrKltYJ0BqQIAAAAAgIQuQagDAaoELE_QUTZHd1QRDeRcSxdeRPcJ7Rn9GSp01ISw4K_iOl0xKgGPVaYLCow9GoqgkAYBwAYLgAfnoJSljR2QBwGYBwGoB5bYG6gHqpuxAqgHg62xAqgH_56xAqgH35-xAqgH4L2xAqgH9JmxAqgH5pqxAqgHsb6xArgIAdIILgiA4YCABBABGF8yAooGOhCAwICAgIBAgMCAgICgqIACSL39wTpY6KOs0eKjiQOACgLQFQGAFwGyFxoKGAgAEhRwdWItNzIzMDA0MDkyMTYzNDk2MA&sigh=3Xn9gdGHbgI&cid=CAQS2wEA6Wl538RQSrrRHtMYAV7cJyLyq1oVzaQgQdol35lDaE0YTBl6MCn-VTJXoS323Oce6kH7NxjKE8PrfEYfCUmWX0ICRy7T5zqouFcI5HnKwT7IJCZrRbFyrOeyuD6Oy4q6q5AqRLP9kGdEoVFFkUCE_VpbE5_qkufvSfotGw0qhUf0ahYYuxRlFptEm8-SWSZ37Ie_O1guoRFigWBl3OUa2uum3XXlLSuG8pJ8mvyMKVOvcYD3Pe5NNsM_cJ92wP8ny1U2ZQZ0zLa7HdxWN6b3MPRuKK9_ZIZoieYYAQ&gvr=1&fbs_aeid=%5Bgw_fbsaeid%5D"
+      ]
+    }
+  ],
+  "backend_query_id" : "ookYZ_TkO9qV29gPouaLyAQ"
+})
 });

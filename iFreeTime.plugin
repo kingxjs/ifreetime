@@ -27,6 +27,6 @@ DOMAIN-SUFFIX,ctobsnssdk.com,REJECT-NO-DROP
 DOMAIN-SUFFIX,ugdtimg.com,REJECT-NO-DROP
 ##DOMAIN-SUFFIX,doubleclick.net,REJECT-NO-DROP
 [Script]
-http-response ^https:\/\/googleads\.g\.doubleclick\.net\/mads\/gma.+ script-path=https://raw.githubusercontent.com/baiheyyds/ifreetime/refs/heads/main/kp.js,requires-body=true,tag=爱阅跳广告直接领取
+http-response ^https:\/\/googleads\.g\.doubleclick\.net\/mads\/gma.+ script-path=https://raw.githubusercontent.com/kingxjs/ifreetime/refs/heads/main/kp.js,requires-body=true,tag=爱阅跳广告直接领取
 [Mitm]
 hostname = googleads.g.doubleclick.net
